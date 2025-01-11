@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\GradeManager\GradeManager\bin\Debug\GradeManager.exe.config
+C:\Users\hasan\source\repos\GradeManager\GradeManager\bin\Debug\GradeManager.exe
+C:\Users\hasan\source\repos\GradeManager\GradeManager\bin\Debug\GradeManager.pdb
+C:\Users\hasan\source\repos\GradeManager\GradeManager\obj\Debug\GradeManager.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\GradeManager\GradeManager\obj\Debug\GradeManager.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\GradeManager\GradeManager\obj\Debug\GradeManager.exe
+C:\Users\hasan\source\repos\GradeManager\GradeManager\obj\Debug\GradeManager.pdb
